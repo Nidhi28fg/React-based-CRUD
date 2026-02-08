@@ -1,5 +1,7 @@
 # Extensible User Management App
 
+<img width="1919" height="1056" alt="image" src="https://github.com/user-attachments/assets/df603394-bd45-4d95-9a81-a707e49c3e50" />
+
 A modern responsive React + TypeScript application for managing users with full CRUD capabilities. Built with scalability and maintainability in mind.
 
 ## Features
